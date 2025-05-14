@@ -39,8 +39,12 @@ The main objectives behind the development of this software were:
 
 ## 🖼️ Screenshots
 
-> *(Include screenshots of the calculator interface here if available)*
-
+![Calculator Screenshot](homepage.png)
+![Calculator Screenshot](algb.png)
+![Calculator Screenshot](calc.png)
+![Calculator Screenshot](lg10.png)
+![Calculator Screenshot](lg.png)
+![Calculator Screenshot](lgn.png)
 ---
 
 ## 📚 How to Run
