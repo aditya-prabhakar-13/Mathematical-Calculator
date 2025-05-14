@@ -50,11 +50,21 @@ The main objectives behind the development of this software were:
    git clone https://github.com/yourusername/mathematical-calculator.git
    cd mathematical-calculator
    ```
-
-2. **Run the Application**
+2. **Install the required libraries**
+  ```bash
+  pip install tkinter
+  ```
+  ```bash
+  pip install mysql.connector
+  ```  
+3. **Run the Application**
    ```bash
    python Mathematical_calculator.py
    ```
+4. **Note**
+- In the Mathematical_calculator.py file the mysql part is commented out, Fill in your username and password to use it.
+
+
 ## 🙏 Acknowledgements
 
 - Guided by **Ms. Shipra Ranjan** – Computer Science Teacher
