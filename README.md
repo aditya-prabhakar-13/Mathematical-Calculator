@@ -53,7 +53,7 @@ The main objectives behind the development of this software were:
 
 2. **Run the Application**
    ```bash
-   python calculator.py
+   python Mathematical_calculator.py
    ```
 ## 🙏 Acknowledgements
 
